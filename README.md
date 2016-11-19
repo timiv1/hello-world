@@ -1,2 +1,4 @@
 # hello-world
-First try.
+
+Hi everyone!
+just doing this to say hi. 
